@@ -47,4 +47,4 @@ Sauvegardes en réseau
 Création de script shell : Programmation shell, variables, structure de contrôle IF, les  boucle While, do , repeat
 Installation de Linux et des paquets (logiciels) : différentes approches
 
-Télécharcher le programme de la semaine [ici]()
+Télécharcher le programme de la semaine [ici](https://github.com/bioinfoujkz/Mai_2021/blob/main/programme_formation_linuxMai_4_au_6_2021.pdf)
