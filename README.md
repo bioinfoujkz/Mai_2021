@@ -46,3 +46,5 @@ Des systèmes Linux sont souvent installés pour servir de serveurs de fichiers,
 Sauvegardes en réseau
 Création de script shell : Programmation shell, variables, structure de contrôle IF, les  boucle While, do , repeat
 Installation de Linux et des paquets (logiciels) : différentes approches
+
+Télécharcher le programme de la semaine [ici]()
