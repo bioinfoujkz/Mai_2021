@@ -1,4 +1,4 @@
-->![](https://github.com/bioinfoujkz/Mai_2021/blob/main/Logo_UO.jpg)<-                    ->![](https://github.com/bioinfoujkz/Mai_2021/blob/main/logo_LMI.png)<-                                                                     ->![](https://github.com/bioinfoujkz/Mai_2021/blob/main/Logo_INERA.jpg)<-
+<p align="center">![](https://github.com/bioinfoujkz/Mai_2021/blob/main/Logo_UO.jpg) ![](https://github.com/bioinfoujkz/Mai_2021/blob/main/logo_LMI.png)                                                                   ![](https://github.com/bioinfoujkz/Mai_2021/blob/main/Logo_INERA.jpg) /> </p>
 # Formation sur le système d’exploitation GNU-Linux
 ## Contexte et justification
 Le système d’exploitation GNU/Linux est actuellement présent dans beaucoup plus d’universités et d'entreprises qu'on ne le croit, et souvent à l'insu de leurs dirigeants. 
