@@ -1,3 +1,6 @@
+![]()                                                              ![]()                                                                 ![]()
+
+
 # Formation sur le système d’exploitation GNU-Linux (Les bases et l’administration niveau 1)
 ## Contexte et justification
 Le système d’exploitation GNU/Linux est actuellement présent dans beaucoup plus d’universités et d'entreprises qu'on ne le croit, et souvent à l'insu de leurs dirigeants. 
