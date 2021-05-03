@@ -1,4 +1,4 @@
-<p align="center"> <img src"https://github.com/bioinfoujkz/Mai_2021/blob/main/Logo_UO.jpg", "https://github.com/bioinfoujkz/Mai_2021/blob/main/logo_LMI.png",                                                                   "https://github.com/bioinfoujkz/Mai_2021/blob/main/Logo_INERA.jpg" />  </p>
+![](https://github.com/bioinfoujkz/Mai_2021/blob/main/Logo_UO.jpg?style=centerme)       ![](https://github.com/bioinfoujkz/Mai_2021/blob/main/logo_LMI.png?style=centerme)       ![](https://github.com/bioinfoujkz/Mai_2021/blob/main/Logo_INERA.jpg?style=centerme)
     
 # Formation sur le système d’exploitation GNU-Linux
 ## Contexte et justification
