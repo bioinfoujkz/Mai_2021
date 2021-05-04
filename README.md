@@ -34,7 +34,8 @@ Des systèmes Linux sont souvent installés pour servir de serveurs de fichiers,
     • Les distributions Linux
     • Les utilisateurs
     • TP : découverte de la distribution Linux Ubuntu, ouverture de session, prompt, etc .
-    • Télécharger le support [ici](https://github.com/bioinfoujkz/Mai_2021/blob/main/transparent_unix.pdf)
+  * Télécharger le support du cours [ici](https://github.com/bioinfoujkz/Mai_2021/blob/main/transparent_unix.pdf)
+  * [Les commandes de base de LINUX](https://github.com/Ezechiel-Tibiri/GNU-LINUX/blob/main/cmd_linux.md)
 ### Jour 2
     • Se déplacer dans l’arborescence de fichier : pwd, ls, cd, mkdir etc.
     • Manipuler des fichiers : head, tail, sort, cut, wc, grep
