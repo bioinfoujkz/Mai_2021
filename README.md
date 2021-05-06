@@ -44,6 +44,7 @@ Des systèmes Linux sont souvent installés pour servir de serveurs de fichiers,
     • Les commandes de sauvegarde : tar, rsync
     • Changer les droits d’exécution
   * Copier le le fichier *LINUX-TP.tar.gz* du repertoire `/home/user/formation_linux` vers votre repertoire de travail.
+  * [Guide de survie LINUX](https://github.com/bioinfoujkz/Mai_2021/blob/main/guide_survuelinux.pdf)
  
 ### Jour 3
 Sauvegardes en réseau
